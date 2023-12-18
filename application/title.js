@@ -17,4 +17,6 @@ const header = () => {
     console.log("`---------------------------------------------------'");
 };
 
-export default { header };
+module.exports = {
+    header,
+};

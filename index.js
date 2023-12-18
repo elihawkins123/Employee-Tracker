@@ -1,11 +1,11 @@
 const inquirer = require('inquirer');
 const db = require('./application/root');
-const title = require('./application/title');
+const { header } = require('./application/title');
 
 roleArray = [];
 
 // display the title graphic
-title.header();
+header ();
 
 // function to make an sure no blank values are submitted
 const validateInput = (input) => {
