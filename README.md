@@ -30,7 +30,7 @@
 
 ## Video
 
-- https://drive.google.com/file/d/1ochkwRbsRk5bpp1b93lFAGyucek-Nazj/view
+- 
 
 ## Github
 
